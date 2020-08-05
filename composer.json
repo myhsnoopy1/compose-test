@@ -1,0 +1,15 @@
+{
+    "name":"myh-test-composer",  //供应商名/项目名
+    "description":"111",  // 简短的描述，通常只有一行
+    "version":"",   //版本号，建议忽略
+    "type":"", //安装类型，建议忽略
+    "keywords":"", //关键字，用于搜索过滤
+    "homepage":"", //主页，可选
+    "license":"", //许可协议，可选，建议提供 
+
+    "authors": [      //作者，可选，建议提供
+        {
+            "name": "myh"
+        }
+    ]
+}
